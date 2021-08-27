@@ -10,6 +10,7 @@ public class App {
         print.ln(2*x);
         // adding a comment to see if this will show up in GitHub
         // adding a new comment remotely to test pull
+        // adding a comment on my mac to pull onto pc
 
     }
 }
